@@ -7,7 +7,7 @@
  $PRIVATE_KEY = 2615678;
  $time = time();
 
- $number="+...";
+ $number="+380...";
 
 
 
