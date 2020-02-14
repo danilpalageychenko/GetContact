@@ -1,16 +1,5 @@
 <?php
 
-/*
-
-     by  SERJ.WS
-    
-    $AES_KEY и $TOKEN берем в
-    
-    /data/data/app.source.getcontact/shared_prefs/GetContactSettingsPref.xml
-
-*/
-
-
  $AES_KEY = '...';
  $TOKEN = '...';
 
